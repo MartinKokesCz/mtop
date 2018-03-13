@@ -2,8 +2,9 @@
 require_once 'header.php';
 ?>
 
-
-this is tělo dokumentu
+<div>
+<p id="content"> this is tělo dokumentu </p>
+</div>
 
 <?php
 require_once 'footer.php';
